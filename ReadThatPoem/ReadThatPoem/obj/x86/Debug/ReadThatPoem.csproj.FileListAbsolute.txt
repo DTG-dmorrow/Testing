@@ -1,0 +1,8 @@
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem\obj\x86\Debug\ReadThatPoem.csprojResolveAssemblyReference.cache
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem\bin\Debug\ReadThatPoem.exe
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem\bin\Debug\ReadThatPoem.pdb
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem\obj\x86\Debug\ReadThatPoem.csproj.GenerateResource.Cache
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem\obj\x86\Debug\ReadThatPoem.exe
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem\obj\x86\Debug\ReadThatPoem.pdb

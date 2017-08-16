@@ -1,0 +1,13 @@
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\bin\Debug\DrewTest.exe.manifest
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\bin\Debug\DrewTest.application
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\bin\Debug\DrewTest.exe
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\bin\Debug\DrewTest.pdb
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\bin\Debug\DrewTest.xml
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\WindowsApplication1.FlippinVintage.resources
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\FlippinVintage.vbproj.GenerateResource.Cache
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\DrewTest.exe.manifest
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\DrewTest.application
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\DrewTest.exe
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\DrewTest.xml
+C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\DrewTest.pdb

@@ -1,0 +1,14 @@
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubrik's Cube\Rubrik's Cube\bin\Debug\Rubrik's Cube.exe
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubrik's Cube\Rubrik's Cube\bin\Debug\Rubrik's Cube.pdb
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubrik's Cube\Rubrik's Cube\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubrik's Cube\Rubrik's Cube\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubrik's Cube\Rubrik's Cube\obj\x86\Debug\Rubriks Cube.csproj.GenerateResource.Cache
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubrik's Cube\Rubrik's Cube\obj\x86\Debug\Rubrik's Cube.exe
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubrik's Cube\Rubrik's Cube\obj\x86\Debug\Rubrik's Cube.pdb
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubriks Cube\Rubriks Cube\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubriks Cube\Rubriks Cube\obj\x86\Debug\Rubriks Cube.csproj.GenerateResource.Cache
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubriks Cube\Rubriks Cube\obj\x86\Debug\Rubriks Cube.exe
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubriks Cube\Rubriks Cube\bin\Debug\Rubriks Cube.exe
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubriks Cube\Rubriks Cube\bin\Debug\Rubriks Cube.pdb
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubriks Cube\Rubriks Cube\obj\x86\Debug\RubriksCube.Properties.Resources.resources
+C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubriks Cube\Rubriks Cube\obj\x86\Debug\Rubriks Cube.pdb

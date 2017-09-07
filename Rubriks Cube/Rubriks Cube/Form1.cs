@@ -364,6 +364,7 @@ namespace WindowsFormsApplication1
 
         #endregion
 
+        #region "Color Number Updates"
         public void changeColorValues(System.Drawing.Color oldColor, System.Drawing.Color newColor)
         {
             switch (oldColor.Name)
@@ -435,5 +436,62 @@ namespace WindowsFormsApplication1
         {
             updateCounts();
         }
+            #endregion
+
+        #region "Moves"
+        public void R()
+        {
+            System.Drawing.Color whiteStart3 = White3.BackColor;
+            System.Drawing.Color whiteStart6 = White6.BackColor;
+            System.Drawing.Color whiteStart9 = White9.BackColor;
+
+            White3.BackColor = Red3.BackColor;
+            White6.BackColor = Red6.BackColor;
+            White9.BackColor = Red9.BackColor;
+
+            Red3.BackColor = Yellow3.BackColor;
+            Red6.BackColor = Yellow6.BackColor;
+            Red9.BackColor = Yellow9.BackColor;
+
+            Yellow3.BackColor = Orange3.BackColor;
+            Yellow6.BackColor = Orange6.BackColor;
+            Yellow9.BackColor = Orange9.BackColor;
+
+            Orange3.BackColor = whiteStart3;
+            Orange6.BackColor = whiteStart6;
+            Orange9.BackColor = whiteStart9;
+        }
+
+        public void Ri()
+        {
+            System.Drawing.Color whiteStart3 = White3.BackColor;
+            System.Drawing.Color whiteStart6 = White6.BackColor;
+            System.Drawing.Color whiteStart9 = White9.BackColor;
+
+            White3.BackColor = Orange3.BackColor;
+            White6.BackColor = Orange6.BackColor;
+            White9.BackColor = Orange9.BackColor;
+
+            Orange3.BackColor = Yellow3.BackColor;
+            Orange6.BackColor = Yellow6.BackColor;
+            Orange9.BackColor = Yellow9.BackColor;
+
+            Yellow3.BackColor = Red3.BackColor;
+            Yellow6.BackColor = Red6.BackColor;
+            Yellow9.BackColor = Red9.BackColor;
+
+            Red3.BackColor = whiteStart3;
+            Red6.BackColor = whiteStart6;
+            Red9.BackColor = whiteStart9;
+        }
+        #endregion
+
+        #region "Start Button"
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Ri();
+        }
+        #endregion
     }
+    
 }

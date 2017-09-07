@@ -106,16 +106,16 @@
             this.PickBlue = new System.Windows.Forms.Panel();
             this.flowLayoutPanel8 = new System.Windows.Forms.FlowLayoutPanel();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.panel6 = new System.Windows.Forms.Panel();
             this.yellowCount = new System.Windows.Forms.TextBox();
-            this.whiteCount = new System.Windows.Forms.TextBox();
+            this.panel2 = new System.Windows.Forms.Panel();
             this.orangeCount = new System.Windows.Forms.TextBox();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.whiteCount = new System.Windows.Forms.TextBox();
+            this.panel4 = new System.Windows.Forms.Panel();
             this.greenCount = new System.Windows.Forms.TextBox();
+            this.panel5 = new System.Windows.Forms.Panel();
             this.redCount = new System.Windows.Forms.TextBox();
+            this.panel6 = new System.Windows.Forms.Panel();
             this.blueCount = new System.Windows.Forms.TextBox();
             this.colorCount = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
@@ -890,6 +890,13 @@
             this.panel1.TabIndex = 0;
             this.panel1.Tag = "Yellow";
             // 
+            // yellowCount
+            // 
+            this.yellowCount.Location = new System.Drawing.Point(31, 3);
+            this.yellowCount.Name = "yellowCount";
+            this.yellowCount.Size = new System.Drawing.Size(30, 22);
+            this.yellowCount.TabIndex = 3;
+            // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.Orange;
@@ -897,6 +904,13 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(22, 22);
             this.panel2.TabIndex = 1;
+            // 
+            // orangeCount
+            // 
+            this.orangeCount.Location = new System.Drawing.Point(31, 31);
+            this.orangeCount.Name = "orangeCount";
+            this.orangeCount.Size = new System.Drawing.Size(30, 22);
+            this.orangeCount.TabIndex = 5;
             // 
             // panel3
             // 
@@ -906,6 +920,13 @@
             this.panel3.Size = new System.Drawing.Size(22, 22);
             this.panel3.TabIndex = 1;
             // 
+            // whiteCount
+            // 
+            this.whiteCount.Location = new System.Drawing.Point(31, 59);
+            this.whiteCount.Name = "whiteCount";
+            this.whiteCount.Size = new System.Drawing.Size(30, 22);
+            this.whiteCount.TabIndex = 4;
+            // 
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.Green;
@@ -913,6 +934,13 @@
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(22, 22);
             this.panel4.TabIndex = 2;
+            // 
+            // greenCount
+            // 
+            this.greenCount.Location = new System.Drawing.Point(31, 87);
+            this.greenCount.Name = "greenCount";
+            this.greenCount.Size = new System.Drawing.Size(30, 22);
+            this.greenCount.TabIndex = 6;
             // 
             // panel5
             // 
@@ -922,6 +950,13 @@
             this.panel5.Size = new System.Drawing.Size(22, 22);
             this.panel5.TabIndex = 1;
             // 
+            // redCount
+            // 
+            this.redCount.Location = new System.Drawing.Point(31, 115);
+            this.redCount.Name = "redCount";
+            this.redCount.Size = new System.Drawing.Size(30, 22);
+            this.redCount.TabIndex = 7;
+            // 
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.Color.Blue;
@@ -929,41 +964,6 @@
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(22, 22);
             this.panel6.TabIndex = 1;
-            // 
-            // yellowCount
-            // 
-            this.yellowCount.Location = new System.Drawing.Point(31, 3);
-            this.yellowCount.Name = "yellowCount";
-            this.yellowCount.Size = new System.Drawing.Size(30, 22);
-            this.yellowCount.TabIndex = 3;
-            // 
-            // whiteCount
-            // 
-            this.whiteCount.Location = new System.Drawing.Point(31, 59);
-            this.whiteCount.Name = "whiteCount";
-            this.whiteCount.Size = new System.Drawing.Size(30, 22);
-            this.whiteCount.TabIndex = 4;
-            // 
-            // orangeCount
-            // 
-            this.orangeCount.Location = new System.Drawing.Point(31, 31);
-            this.orangeCount.Name = "orangeCount";
-            this.orangeCount.Size = new System.Drawing.Size(30, 22);
-            this.orangeCount.TabIndex = 5;
-            // 
-            // greenCount
-            // 
-            this.greenCount.Location = new System.Drawing.Point(31, 87);
-            this.greenCount.Name = "greenCount";
-            this.greenCount.Size = new System.Drawing.Size(30, 22);
-            this.greenCount.TabIndex = 6;
-            // 
-            // redCount
-            // 
-            this.redCount.Location = new System.Drawing.Point(31, 115);
-            this.redCount.Name = "redCount";
-            this.redCount.Size = new System.Drawing.Size(30, 22);
-            this.redCount.TabIndex = 7;
             // 
             // blueCount
             // 
@@ -995,6 +995,7 @@
             this.button1.TabIndex = 14;
             this.button1.Text = "START";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 

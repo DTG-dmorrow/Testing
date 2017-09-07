@@ -12,3 +12,10 @@ C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubriks Cube\Rubriks Cube
 C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubriks Cube\Rubriks Cube\bin\Debug\Rubriks Cube.pdb
 C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubriks Cube\Rubriks Cube\obj\x86\Debug\RubriksCube.Properties.Resources.resources
 C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\Rubriks Cube\Rubriks Cube\obj\x86\Debug\Rubriks Cube.pdb
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Rubriks Cube\Rubriks Cube\obj\x86\Debug\Rubriks Cube.exe
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Rubriks Cube\Rubriks Cube\obj\x86\Debug\Rubriks Cube.pdb
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Rubriks Cube\Rubriks Cube\bin\Debug\Rubriks Cube.exe
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Rubriks Cube\Rubriks Cube\bin\Debug\Rubriks Cube.pdb
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Rubriks Cube\Rubriks Cube\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Rubriks Cube\Rubriks Cube\obj\x86\Debug\RubriksCube.Properties.Resources.resources
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Rubriks Cube\Rubriks Cube\obj\x86\Debug\Rubriks Cube.csproj.GenerateResource.Cache

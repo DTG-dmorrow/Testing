@@ -1,0 +1,14 @@
+C:\Users\DMorrow\AppData\Local\Temporary Projects\Logger\bin\Debug\Logger.exe
+C:\Users\DMorrow\AppData\Local\Temporary Projects\Logger\bin\Debug\Logger.pdb
+C:\Users\DMorrow\AppData\Local\Temporary Projects\Logger\obj\x86\Debug\Logger.Form1.resources
+C:\Users\DMorrow\AppData\Local\Temporary Projects\Logger\obj\x86\Debug\Logger.Properties.Resources.resources
+C:\Users\DMorrow\AppData\Local\Temporary Projects\Logger\obj\x86\Debug\Logger.csproj.GenerateResource.Cache
+C:\Users\DMorrow\AppData\Local\Temporary Projects\Logger\obj\x86\Debug\Logger.exe
+C:\Users\DMorrow\AppData\Local\Temporary Projects\Logger\obj\x86\Debug\Logger.pdb
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\obj\x86\Debug\Logger.exe
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\bin\Debug\Logger.exe
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\obj\x86\Debug\Logger.LoggerInterface.resources
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\obj\x86\Debug\Logger.Properties.Resources.resources
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\obj\x86\Debug\Logger.csproj.GenerateResource.Cache
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\obj\x86\Debug\Logger.pdb

@@ -12,3 +12,4 @@ C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\obj\x86\Debug\Logger.
 C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\obj\x86\Debug\Logger.Properties.Resources.resources
 C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\obj\x86\Debug\Logger.csproj.GenerateResource.Cache
 C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\obj\x86\Debug\Logger.pdb
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\Logger\Logger\obj\x86\Debug\Logger.csprojResolveAssemblyReference.cache

@@ -15,7 +15,8 @@ namespace Logger
         #region Variables and Constructor
         private Boolean m_TextUsed = false;
 
-        private String m_path = "C:\\Desktop\\" + "\\Logs\\" 
+        private String m_Directory = "C:\\Desktop\\Logs\\";
+        private String m_path = "C:\\Desktop\\Logs\\" 
             + System.DateTime.Today.Month.ToString() + "-" 
             + System.DateTime.Today.Day.ToString() + ".txt";
 
@@ -84,6 +85,12 @@ namespace Logger
         #region methods
         private void Log()
         {
+            if (!Directory.Exists(m_Directory))
+                Directory.CreateDirectory(m_Directory);
+
+            if (!File.Exists(m_path))
+                File.CreateText(m_path);
+
             if (m_Writer == null)
                 m_Writer = File.AppendText(m_path);
 
@@ -137,10 +144,17 @@ namespace Logger
             }
             finally
             {
-                m_Reader.Close();
-                m_Writer.Close();
-                m_Reader = null;
-                m_Writer = null;
+                if (m_Reader != null)
+                {
+                    m_Reader.Close();
+                    m_Reader = null;
+                }
+
+                if (m_Writer != null)
+                {
+                    m_Writer.Close();
+                    m_Writer = null;
+                }
             }
         }
 

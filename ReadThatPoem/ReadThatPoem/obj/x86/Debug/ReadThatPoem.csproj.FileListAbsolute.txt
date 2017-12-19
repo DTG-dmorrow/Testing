@@ -6,3 +6,5 @@ C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem
 C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem\obj\x86\Debug\ReadThatPoem.csproj.GenerateResource.Cache
 C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem\obj\x86\Debug\ReadThatPoem.exe
 C:\Users\DMorrow\Documents\Visual Studio 2010\Projects\ReadThatPoem\ReadThatPoem\obj\x86\Debug\ReadThatPoem.pdb
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\ReadThatPoem\ReadThatPoem\obj\x86\Debug\ReadThatPoem.exe
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\ReadThatPoem\ReadThatPoem\obj\x86\Debug\ReadThatPoem.pdb

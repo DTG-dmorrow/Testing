@@ -11,3 +11,6 @@ C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\Drew
 C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\DrewTest.exe
 C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\DrewTest.xml
 C:\Users\DMorrow\Documents\MyStuff\Practice\DrewTest\DrewTest\obj\x86\Debug\DrewTest.pdb
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\DrewTest\DrewTest\obj\x86\Debug\DrewTest.exe
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\DrewTest\DrewTest\obj\x86\Debug\DrewTest.xml
+C:\Users\DMorrow\Documents\MyStuff\OnlineGIT\DrewTest\DrewTest\obj\x86\Debug\DrewTest.pdb
